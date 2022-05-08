@@ -9,10 +9,10 @@ set_chat_lang: "Great, {} it is from now on!"
 
 
 pm_start_text: |
-   ────「 [{Anie}] 」────
+   ────「 [{Niskala}] 」────
    ʜᴇʏ! {}
    ɪ ᴀᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ᴀᴅᴠᴀɴᴄᴇ ɢʀᴏᴜp ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴀ ʟᴏᴛ ᴏғ sᴘᴇᴄɪᴀʟɪᴛʏ.
-   ➖➖➖➖➖➖➖➖➖➖➖➖➖
+   ➖➖➖➖➖➖➖➖➖➖
    I have lots of handy features such as:
    ‣ Warning system
    ‣ Artificial intelligence
@@ -20,11 +20,11 @@ pm_start_text: |
    ‣ Note keeping system
    ‣ Filters keeping system
    ‣ Approvals and much more.
-   ‣ Managed By @Timesisnotwaiting.
-   ➖➖➖➖➖➖➖➖➖➖➖➖➖
+   ‣ Managed By @IDnyaAL.
+   ➖➖➖➖➖➖➖➖➖➖
    ➛ᴛʀʏ ᴛʜᴇ /help ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ᴛᴏ ᴋɴᴏᴡ ᴍʏ ᴀʙɪʟɪᴛɪᴇs ××
    
-grp_start_text: "Hi,Anie Is Here."
+grp_start_text: "Hi,Niskala Is Here."
 
 pm_help_text: |
     • /start: Starts me, can be used to check I'm alive or not.
@@ -204,7 +204,7 @@ FED_USER_HELP: |
     • `/frules`*:* See Federation regulations
 
 formt_help_bse: |
-    Anie supports a large number of formatting options to make your messages more expressive. Take a look!
+    Niskala supports a large number of formatting options to make your messages more expressive. Take a look!
 
 md_help: |
     <b>Markdown Formatting</b>
