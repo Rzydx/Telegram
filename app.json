@@ -13,11 +13,11 @@
   "env": {
     "REPO_URL": {
       "description": "URL of the REPO, If You Have edited Repo.. Else Leave ! Don't Change",
-      "value": "https://github.com/ITZ-ZAID/Telegram"
+      "value": "https://github.com/Rzydx/Telegram"
     },
     "TOKEN": {
       "description": "Bot Token from @botfather..",
-      "value": ""
+      "value": "5363549359:AAFUdFU61S53SAu7N3ZYakO4KAHrjSuJd-U"
     },
     "DATABASE_URL": {
       "description": "Database Url from elephantsql.com ..",
@@ -25,31 +25,31 @@
     },
     "SUDO_USERS": {
       "description": "Dev Access Of Your Bot (Id) Go to @Zaid2_Robot And Type /id",
-      "value": ""
+      "value": "1338853808"
     },
     "DEV_USERS": {
       "description": "Dev Access Of Your Bot (Id) Go to @Zaid2_Robot And Type /id..",
-      "value": ""
+      "value": "1338853808"
     },
     "GBAN_LOGS": {
       "description": "Forward Your Channel Message to @Zaid2_Robot To Get Your Channel ID..",
-      "value": "-100"
+      "value": "-1001735372803"
     },
     "MESSAGE_DUMP": {
       "description": "Forward Your Channel Message to @Zaid2_Robot To Get Your Channel ID..",
-      "value": "-100"
+      "value": "-1001735372803"
     },
     "OWNER_ID": {
       "description": "Your Id, Go To @Zaid2_Robot Pm and Type /id..",
-      "value": ""
+      "value": "1338853808"
     },
     "OWNER_USERNAME": {
       "description": "Your Telegram Username..",
-      "value": ""
+      "value": "IDnyaAL"
     },
     "STRING_SESSION": {
       "description": "A Telethon String Session Of Dummy Account @StarkStringGenBot..",
-      "value": ""
+      "value": "1BVtsOLcBuyHcJ-5vfPX2yMQ5Rur9Idcpe3B7a0x49KO183tQW5k9UCUJJ7g8Gf_0xVYpwJVMYQlHMz3Y0FUr7BiUrFIm78FIbmjo5F1VDN2PCZ1AwKZPq1b-NIwtTUtgmZ70ArQFbUG_adMcL6T_bs58RAu1HFGTWsf1LhAOl7k2wwXI77fT1dJYYxa43pIQ5iQdw-EiBHtSFri7c8jR6su4mPFpnpjXz7RLSysiEW7oAJANjkVZT9UJovgdS8jMAOFS4kGZpyXNS2a_gC2RpuGwDfIeLjWWQNEPeufFOJnPzT0d6ECN5epMXg-IBnzXyHtZzHCIGv_3EJhZ8pOydD4OjlDhxd4="
     }
   },
   "addons": [
